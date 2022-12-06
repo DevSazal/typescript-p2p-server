@@ -1,0 +1,6 @@
+## Application Level ## 
+
+**/.build
+# modules
+**/node_modules
+package-lock.json
